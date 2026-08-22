@@ -1,3 +1,16 @@
+* text=auto
+
+*.conf text eol=crlf
+*.md text eol=crlf
+*.txt text eol=crlf
+*.lua text eol=crlf
+*.js text eol=crlf
+*.json text eol=crlf
+*.glsl text eol=crlf
+*.hook text eol=crlf
+*.ico binary
+*.png binary
+
 *.lua linguist-detectable=false
 *.glsl linguist-detectable=false
 *.hook linguist-detectable=false
